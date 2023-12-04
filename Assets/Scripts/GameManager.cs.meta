@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4860a73c67a888b44a02a246702d4a42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - str_lives: {instanceID: 0}
+  - prince_talk: {instanceID: 0}
+  - wrongAnswer: {instanceID: 0}
+  - correctAnswer: {instanceID: 0}
+  - burnAcid: {fileID: 8300000, guid: 0e6fe4e421112f54d94ce6fa0219e2c3, type: 3}
+  - gameOverDialog: {instanceID: 0}
+  - gamePauseDialog: {instanceID: 0}
+  - winDialog: {instanceID: 0}
+  - princess: {instanceID: 0}
+  - prince: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
